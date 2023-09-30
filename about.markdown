@@ -12,7 +12,7 @@ aamseason was founded with a simple yet profound mission: to bring the authentic
 
 # Our Commitment
 
-At [Your Website Name], we are committed to providing you with the highest quality Alphonso mangoes available. We understand that the pursuit of excellence is not just about taste; it's also about ethics. That's why we work directly with trusted Indian orchards and farmers who uphold sustainable and responsible farming practices. By choosing our mangoes, you're not only indulging in a delightful experience but also supporting responsible agriculture.
+At aamseason, we are committed to providing you with the highest quality Alphonso mangoes available. We understand that the pursuit of excellence is not just about taste; it's also about ethics. That's why we work directly with trusted Indian orchards and farmers who uphold sustainable and responsible farming practices. By choosing our mangoes, you're not only indulging in a delightful experience but also supporting responsible agriculture.
 
 # What Sets Us Apart
 
@@ -31,4 +31,4 @@ We invite you to explore our website, discover the mouthwatering world of Alphon
 
 # Contact Us
 
-Got questions or feedback? We'd love to hear from you. Reach out to us at [Your Contact Information], and our friendly team will assist you promptly.
+Got questions or feedback? We'd love to hear from you. Reach out to us at contact@aamseason.com, and our friendly team will assist you promptly.
