@@ -4,7 +4,8 @@ title:  "aamseason - Discover the Taste of India with Alphonso Mangoes"
 date:   2023-09-16 01:07:39 +0530
 categories: Alphonso
 ---
-Welcome to the world of Alphonso mangoes, the crowned jewel of Indian fruits! If you're a mango enthusiast or simply someone who appreciates the finer things in life, you've landed on the right page. At aamseason, we are passionate about bringing you the best quality Alphonso mangoes straight from the lush orchards of India.
+Welcome to the world of Alphonso mangoes, the crowned jewel of Indian fruits! If you're a mango enthusiast or simply someone who appreciates the finer things in life, you've landed on the right page. At aamseason, we are passionate about bringing you the best quality Alphonso mangoes straight from the lush orchards of India. [Know more about aamseason](/about)
+
 
 # What Makes Alphonso Mangoes Special?
 Known as the "King of Mangoes," the Alphonso mango (Mangifera indica) is renowned worldwide for its exceptional flavor, rich aroma, and unique, creamy texture. It hails from the Ratnagiri and Devgad regions of Maharashtra, India, where the combination of fertile soil, ample sunlight, and the perfect tropical climate create the ideal conditions for growing this exquisite fruit.
