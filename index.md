@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Discover the Taste of India with Alphonso Mangoes - Where to Buy the Best Quality Alphonsos"
+title:  "aamseason - Discover the Taste of India with Alphonso Mangoes"
 date:   2023-09-16 01:07:39 +0530
 categories: Alphonso
 ---
