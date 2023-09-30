@@ -28,7 +28,7 @@ twitter_username: bootvar
 github_username:  
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 
