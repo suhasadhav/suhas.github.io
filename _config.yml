@@ -31,6 +31,9 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+remote_theme: pages-themes/cayman@v0.2.0
 
 domain: aamseason.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
